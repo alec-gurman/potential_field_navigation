@@ -3,5 +3,3 @@ Alec,Jackson
 Updated
 
 Updated to GitHub
-
-Updated testing Credentials
