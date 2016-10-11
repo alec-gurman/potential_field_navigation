@@ -1,0 +1,4 @@
+Updates:
+
+Serial connection added
+AI system as per previous version
