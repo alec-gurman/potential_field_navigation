@@ -1,0 +1,6 @@
+Updates:
+
+Serial connection added
+AI system as per previous version
+
+updated: 9:51am 12/10/2016
